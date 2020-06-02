@@ -2,7 +2,6 @@
 
 ## Disclaimer
 - All credits go to the Lawnchair team.
-- Quickstep enablement is done with the help of QuickSwitch Magisk module made by [Skittles9823](https://github.com/skittles9823).
 
 ## Getting started
 **1. Add this repository to your AOSP build root's `vendor/lawnchair`**
